@@ -1,5 +1,5 @@
 ---
-layout:default
+layout: default
 ---
 
 # Welcome to my project directory.
