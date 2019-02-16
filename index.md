@@ -1,6 +1,9 @@
-# Welcome!
-This is a site for my projects, it will be expanded later.
+---
+layout:default
+---
 
-In the meantime, here's a high-quality gif of a cat.
+# Welcome to my project directory.
 
-![cat](https://zippy.gfycat.com/RealTangibleJoey.gif)
+Here you'll find more technical explanations of projects (or copies of their README's in a fun new format).
+
+Have a look around!
