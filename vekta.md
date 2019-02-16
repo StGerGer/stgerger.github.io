@@ -3,9 +3,7 @@ layout: default
 ---
 
 # VEKTA
-
-![Main menu screen](info/main.png)
-![Gameplay](info/gameplay.png)
+[Github](https://github.com/StGerGer/vekta-processing)
 
 ## Downloads
 Visit the apps folder, find the executable you need. No guarantees that any will work. For the latest version, it is best to download the source and compile it yourself.
