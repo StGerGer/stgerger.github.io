@@ -11,6 +11,10 @@ img {
     margin-bottom: 10px;
 }
 
+h2 {
+  color: #DDD;
+}
+
 #header {
     position: fixed;
     top: 0px;
@@ -66,4 +70,16 @@ img {
 
 .clickable:hover {
   color: #15eabf;
+}
+
+@media(max-width: 720px) {
+  .sidebar {
+    display: none;
+  }
+  body {
+    font-size: 2rem;
+  }
+  h2 {
+    font-size: 3rem;
+  }
 }
