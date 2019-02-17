@@ -9,4 +9,4 @@ Here you'll find more technical explanations of projects (or copies of their REA
 Have a look around!
 
 ## Projects
-[vekta]("/vekta")
+[vekta](/vekta)
