@@ -12,7 +12,7 @@ img {
 }
 
 h2 {
-  color: #DDD;
+  color: #15eabf;
 }
 
 #header {
@@ -58,7 +58,7 @@ h2 {
   font-size:0.8rem;
 }
 
-.clickable {
+a {
   cursor: pointer;
 }
 
@@ -68,18 +68,26 @@ h2 {
   max-width: 720px;
 }
 
-.clickable:hover {
+a:hover {
   color: #15eabf;
 }
 
 @media(max-width: 720px) {
-  .sidebar {
+  #sidebar {
     display: none;
   }
   body {
-    font-size: 2rem;
+    font-size: 1.5rem;
   }
   h2 {
-    font-size: 3rem;
+    font-size: 2.4rem;
+  }
+  .container {
+    margin-top: 120px;
+    margin-left: 10px;
+    max-width: 600px;
+  }
+  .title {
+    font-size: 1.5rem;
   }
 }
