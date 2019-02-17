@@ -21,7 +21,7 @@ h2 {
     left: 0px;
     width: 100vw;
     height: 100px;
-    background-color: #0A0A0A;
+    background-color: #000;
     border-bottom: 1px solid #FFF;
     display: flex;
     flex-direction: row;
@@ -37,7 +37,7 @@ h2 {
   width: 15vw;
   height: calc(100vh - 100px);
   padding: 20px;
-  background-color: #0A0A0A;
+  background-color: #000;
   border-right: 1px solid #FFF;
   display: flex;
   flex-direction: column;
