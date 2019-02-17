@@ -65,7 +65,7 @@ a {
 .container {
   margin-top: 120px;
   margin-left: calc(15vw + 109px);
-  max-width: 720px;
+  max-width: 70vw;
 }
 
 a:hover {
